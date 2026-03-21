@@ -89,7 +89,7 @@ Que ya no somos ni seremos`;
       {/* Audio Element */}
       <audio 
         ref={audioRef} 
-        src="https://rr4---sn-cvb7lnls.googlevideo.com/videoplayback?expire=1774040798&ei=fmK9adCaD9ysy_sPzbOXwQo&ip=186.28.36.207&id=o-AEnQNf2kX7dLxiGq-3MMxMipRLu3RchUOUoRoXPHpmiS&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=aub%2Caub&gcr=co&bui=AVNa5-y-eig8TMgZP3PW673CoWGUttPhJdU0mEdZ64rEpRUuzJ_mY7ohFODq9maE6N-8qKdFC01TzhcI&spc=6dlaFJUbRYbHV8lO0MiFbcefx3GY4N_fyS8fuqbqK3LQPoLu&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3292875&dur=184.041&lmt=1732651098638328&keepalive=yes&fexp=51565116,51565681,51791334&c=ANDROID_VR&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AHEqNM4wRgIhAPpa1o3bEKvO3r9JmjwD57HN8_FQG3mPWIWVmvFHhTNVAiEAsB9ko5qd4pPb8En3wDdYs8oiRWcsDNS5TH-c2xCbgpk%3D&redirect_counter=1&rm=sn-cvbes7z&rrc=104&req_id=2deffd56a384a3ee&cms_redirect=yes&cmsv=e&cps=855&ipbypass=yes&met=1774034007,&mh=g4&mip=177.253.229.250&mm=18&mn=sn-cvb7lnls&ms=aub&mt=1774033489&mv=m&mvi=4&pl=18&lsparams=cps,ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRAIgcA9N3xoKmkFX1F-KF1u1BMcad09az44Js7_FpmDdT7gCICTz6F2InWOZTQaqQUVFB_Y9J4J3iZ0Flm0_SE0unGqQ"
+        src="https://image2url.com/r2/default/audio/1774051879177-db18cc1c-a5b4-455e-851d-afdd272a9176.mp3"
         loop 
       />
 
